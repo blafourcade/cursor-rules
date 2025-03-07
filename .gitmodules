@@ -1,0 +1,9 @@
+[submodule "cv-generator"]
+	path = cv-generator
+	url = git@github.com:giak/cv-generator.git
+[submodule "UltraContextAI"]
+	path = UltraContextAI
+	url = git@github.com:T1nker-1220/UltraContextAI.git
+[submodule "le-journal"]
+	path = le-journal
+	url = git@github.com:ai-driven-dev/le-journal.git
