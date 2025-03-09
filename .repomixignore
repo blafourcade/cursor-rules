@@ -3,9 +3,10 @@
 # *.log
 # tmp/
 
-# Ignore everything
-*
-
-# Except the .cursor/ directory
-!.cursor/
-!./cv-generator/.cursor/
+.specstory/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+repomix.config.json
+repomix-output.md
