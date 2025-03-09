@@ -8,3 +8,4 @@
 
 # Except the .cursor/ directory
 !.cursor/
+!./cv-generator/.cursor/
